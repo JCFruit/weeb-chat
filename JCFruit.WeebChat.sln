@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JCFruit.WeebChat.Server", "JCFruit.WeebChat.Server\JCFruit.WeebChat.Server.csproj", "{03527571-ADCE-4C70-A86F-CDD3F6311A26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JCFruit.WeebChat.Server.Tcp", "JCFruit.WeebChat.Server.Tcp\JCFruit.WeebChat.Server.Tcp.csproj", "{573097DA-EE0C-4E0A-8B9B-5EB370E9E469}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03527571-ADCE-4C70-A86F-CDD3F6311A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03527571-ADCE-4C70-A86F-CDD3F6311A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03527571-ADCE-4C70-A86F-CDD3F6311A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03527571-ADCE-4C70-A86F-CDD3F6311A26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{573097DA-EE0C-4E0A-8B9B-5EB370E9E469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{573097DA-EE0C-4E0A-8B9B-5EB370E9E469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{573097DA-EE0C-4E0A-8B9B-5EB370E9E469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{573097DA-EE0C-4E0A-8B9B-5EB370E9E469}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1723C35-4E20-4C56-BD8F-844086E21408}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "JCFruit.WeebChat.Server": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
